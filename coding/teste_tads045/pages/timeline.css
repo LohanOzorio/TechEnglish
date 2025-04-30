@@ -1,4 +1,3 @@
-
 body {
     background-image:
         linear-gradient(#00597C, #00000080, #00597C, black),
@@ -11,10 +10,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    column-gap: 20px;
 
     margin: 0;
-    padding: 0;
+    padding:0;
 }
 
 .menu-container {
@@ -59,45 +57,18 @@ body {
     color: white;
     transform: scale(1.2);
 }
-.Header-container{
 
-    padding-top: 15vh;
+
+
+.container-timeline{
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    scale: 1.35;
-
-}
-
-.Header-container img {
-
-    max-width: 75%;
-    
-}
-
-
-
-.krona-one-regular {
-    font-family: "Krona One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.koulen-regular {
-    font-family: "Koulen", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.container-center {
-    display: flex;
-    flex-direction:column;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content:center;
+    color: white;
+    font-family: "Koulen", sans-serif;
+    font-size: 2.5rem;
     
-
-    border: 1px solid red;
-
    
 }
 
@@ -105,5 +76,5 @@ body {
     width: 50vw;
     max-width: 100%;
     height: auto;
-    border: 1px solid red;
+    padding-right: 4em;
 }
