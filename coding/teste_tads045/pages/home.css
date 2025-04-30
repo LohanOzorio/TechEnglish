@@ -1,7 +1,7 @@
 
 body {
     background-image:
-        linear-gradient(#00597C, #00000080, #00597C, black),
+        linear-gradient(#00597C, #00000080, #00597C, black,),
         url("../assets/background.png");
 
     background-size: cover;
@@ -13,7 +13,7 @@ body {
     align-items: center;
 
     margin: 0;
-    padding: 0;
+    padding:0 ;
 }
 
 .menu-container {
