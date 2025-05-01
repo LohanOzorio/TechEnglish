@@ -1,27 +1,54 @@
-## 🚀 Tecnologias Utilizadas
+# 🌐📖THE STORY OF THE INTERNET - TECH ENGLISH💻📡
 
-- HTML5
-- CSS3
-- javascript
-- Fontes do Google Fonts (Krona One, Koulen)
+![Captura de tela 2025-04-30 192051](https://github.com/user-attachments/assets/7696c7f5-6a11-4dcf-8ca6-d9213167316b)
 
-## Extensõe do vscode
+
+## 📚 Description:
+ The Story of the Internet is a project in the form of an interactive website with a timeline that presents the main events in the history of the internet in a visual and dynamic way, in the storytelling style.
+
  
-- LiveServer
-- Material icon theme
-- Prettier
 
-## 🎯 Objetivos do Layout
+## 🚀 Technologies Used:
+- *HTML5*
+- *CSS3*
+- *Javascript*
+- *Fonts:Google Fonts (Krona One, Koulen)*
+  
+To Find Out More: <br/> [clique aqui.](https://fonts.google.com/)
 
-- Centralizar o conteúdo na tela
-- Usar design flexível com Flexbox
-- Garantir uma boa experiência visual em qualquer dispositivo
+## 💻 vscode Extensions
+ 
+- *LiveServer*
+- *Material icon theme*
+- *Prettier*
 
-## 📐 Unidades de Medidas Flexíveis
+## 🎯 Designer Tools
 
-Utilizamos unidades como:
+- *Figma*
+- *Fundamentals UX*
+- *Fundamentals UI*
+  
+ To Find Out More: <br/> [clique aqui.](https://awari.com.br/ux-ui-fundamentals-fundamentos-de-design-de-interface/)
 
-- `rem`, `em` para fontes e espaçamentos
-- `%`, `vw`, `vh` para larguras e alturas
+## 👩‍💻 We Use Units Such As:
 
-Isso garante que os elementos do layout se ajustem conforme o tamanho da tela, melhorando a acessibilidade e a usabilidade.
+- `rem`, `em` for fonts and spacing
+- `%`, `vw`, `vh` for widths and heights
+
+**This ensures that layout elements adjust to the screen size, improving accessibility and usability.**
+
+## 📐 Function Organization Tool
+
+- *Trello*
+  
+## ▶️ View The Project Locally :
+- *LiveServer*
+
+## 👥Members🤝 :
+
+ <br/> [@Leticia-dev07](https://github.com/Leticia-dev07/Leticia-dev07)
+ <br/> [@LohanOzorio](https://github.com/LohanOzorio/LohanOzorio) 
+ <br/> [@Lucasvr-Dev](https://github.com/Lucasvr-Dev/Lucas)
+ <br/> [@renanspace](https://github.com/renanspace/renanspace)
+ <br/> [@samuelucass](https://github.com/samuelucass)
+ <br/> [@victorpereira]()
