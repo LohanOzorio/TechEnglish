@@ -1,4 +1,3 @@
-
 body {
     background-image:
         linear-gradient(#00597C, #00000080, #00597C, black),
@@ -90,13 +89,16 @@ body {
 }
 
 .container-center {
+
+    padding-top: 10%;
+    padding-bottom:10%;
     display: flex;
     flex-direction:column;
     align-items: center;
     justify-content:center;
     
 
-    border: 1px solid red;
+    
 
    
 }
@@ -105,5 +107,5 @@ body {
     width: 50vw;
     max-width: 100%;
     height: auto;
-    border: 1px solid red;
+    
 }

@@ -1,6 +1,6 @@
 body {
     background-image:
-        linear-gradient(#00597C, #00000080, #00597C, black),
+        linear-gradient(#000000, #00000080, #01141b, black),
         url("../assets/background.png");
 
     background-size: cover;
@@ -62,19 +62,21 @@ body {
 
 .container-timeline{
     display: flex;
-    flex-direction: row-reverse;
-    align-items: center;
+    flex-direction: column;
+    align-items: start;
+    align-content: center;
     justify-content:center;
-    color: white;
-    font-family: "Koulen", sans-serif;
-    font-size: 2.5rem;
+
+    padding-left: 10%;
+    padding-top: 10%;
     
    
 }
 
 .imagebox {
+    
     width: 50vw;
     max-width: 100%;
     height: auto;
-    padding-right: 4em;
+   
 }
