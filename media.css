@@ -1,0 +1,104 @@
+body {
+    background-image:
+        linear-gradient(#00597C, #00000080, #00597C, black),
+        url("../assets/background.png");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 20px;
+
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Krona One", sans-serif;
+}
+
+.menu-container {
+    background-color: #001E2F;
+    border-radius: 2rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    width: 90%;
+    max-width: 1239px;
+    height: 8vh;
+    margin-top: 4vh;
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.botao {
+    border: none;
+    border-radius: 1.25rem;
+    background-color: #001E2F;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    
+    width: 18vw;
+    max-width: 234px;
+    height: 6vh;
+    font-family: "Krona One", sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.botao a{
+    text-decoration: none;
+    color: white;
+}
+
+.botao:hover {
+    background-image: linear-gradient(to right, #00597C, #00A2E2);
+    color: white;
+    transform: scale(1.2);
+}
+
+
+h1{
+  padding-top: 20%;  
+  font-size: 70px;
+}
+
+.container-videos {
+
+    padding-top: 15%;
+    padding-bottom:10%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    
+    
+
+    
+
+   
+}
+
+  
+.video-container {
+   height: 800px;
+   width: 1000px;
+    padding: 50px;
+    margin: 20px auto;
+  }
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+
+  .title {
+    margin-top: 10px;
+   font-size: 40px;
+    
+  }
